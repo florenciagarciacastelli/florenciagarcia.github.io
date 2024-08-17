@@ -1,0 +1,80 @@
+/* Colores pasteles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #ffd7c7;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Selectores por ID */
+#main-header {
+    background-color: #ffe1f6;
+    padding: 20px;
+    text-align: center;
+    background: linear-gradient(to right, #f3ad9c, #feb47b); 
+    background-image: url(fondo\ flores.avif);
+}
+
+#main-nav {
+    background-color: #ffd8b4;
+    padding: 10px;
+}
+
+/* Selectores por Clase */
+.header-title {
+    font-size: 8em;
+    color: #e7116a;
+    font-family: "Dancing Script", cursive;
+    
+}
+
+.nav-bar ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+.nav-bar li {
+    display: inline;
+    margin-right: 15px;
+}
+
+.section-about, .section-projects, .footer {
+    background-color: #ffc8eab6;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background: linear-gradient(to right, #ff9479, #feb47b); 
+    
+}
+
+.project {
+    margin-bottom: 15px;
+}
+
+.footer {
+    text-align: center;
+    font-size: 0.8cm;
+}
+a {
+    color: #080808;
+    text-decoration: none;
+    font-size: 0.7cm;
+    
+}
+div image{
+
+}
+.footer p {
+    color: #080808;
+    font-size: 0.7cm;
+}
+p {
+    font-size: 0.7cm;
+    font-family: "Julius Sans One", sans-serif;
+}
+h2 {
+    font-size: 0.8cm;
+}
